@@ -1,12 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to Fluid Entry
 
-You can use the [editor on GitHub](https://github.com/Achilleasein/FluidEntry.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to FLuid Entry.
+The fluid way to distribute the key to your traveler.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### How it works?
 
-### Markdown
+When a traveler comes at an unconvient time, you have to give them key or maybe you have more properties and a lot of people arrive at the same time. What can you do?
+With Fluid Entry, when a traveler books your property digital keys are automaticly distributed with the highest security possible.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
