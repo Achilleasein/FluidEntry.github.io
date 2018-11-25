@@ -13,5 +13,8 @@ With Fluid Entry, when a traveler books your property digital keys are automatic
 ### Members:
 - Achilleas Yfantis
 - Homer Papadatos
-- Demetris Bakas (B0ss)
-- 2 others
+- Demetris Bakas
+- Aristides Mpifis
+- Eutixia Karaiskou
+
+### Contact: the.fluid.entry@gmail.com
