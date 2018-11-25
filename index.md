@@ -1,6 +1,6 @@
-# Welcome to Fluid Entry
+# Welcome to **Fluid Entry**
 
-## The fluid way to distribute the key to travelers.
+## The fluid way to **distribute** the key to travelers.
 
 ### **How it works?**
 
