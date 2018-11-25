@@ -1,7 +1,6 @@
 # Welcome to Fluid Entry
 
-Welcome to FLuid Entry.
-The fluid way to distribute the key to your traveler.
+## The fluid way to distribute the key to travelers.
 
 ### **How it works?**
 
@@ -17,4 +16,4 @@ With Fluid Entry, when a traveler books your property digital keys are automatic
 - Aristides Mpifis
 - Eutixia Karaiskou
 
-Contact us: the.fluid.entry@gmail.com
+Contact us: <the.fluid.entry@gmail.com>
