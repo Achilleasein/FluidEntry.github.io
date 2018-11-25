@@ -17,4 +17,4 @@ With Fluid Entry, when a traveler books your property digital keys are automatic
 - Aristides Mpifis
 - Eutixia Karaiskou
 
-### Contact: the.fluid.entry@gmail.com
+Contact us: the.fluid.entry@gmail.com
