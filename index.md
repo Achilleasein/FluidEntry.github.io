@@ -10,6 +10,11 @@ With Fluid Entry, when a traveler books your property digital keys are automatic
 
 ![Image](https://images.pexels.com/photos/279810/pexels-photo-279810.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260)
 
+- Achilleas Yfantis
+- Homer Papadatos
+- Demetris Bakas (B0ss)
+- 2 others
+
 ```markdown
 Syntax highlighted code block
 
